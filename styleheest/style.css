@@ -90,6 +90,7 @@
       height: 25px;
       position: relative;
       z-index: 900;
+      cursor: pointer;
     }
     .hamburguer:after {
       content: "";
