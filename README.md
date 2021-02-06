@@ -1,2 +1,2 @@
-# WebWord
-O projeto WebWord é um projeto para eu testar meus conhecimentos na programação
+# MiguelrSant.github.io
+MiguelrSant é o meu primeiro repository no GitHub, no meu desenvolvimento para virar um bom programador
